@@ -1,6 +1,6 @@
-# Devops && Cloud Computing
+# Devops
 ### Linux
-### Networking [Tu bata kahan se kare sahi se]
+### Networking
 ### Docker
 ### Kubernetes
 
